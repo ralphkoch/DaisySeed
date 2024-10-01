@@ -4,6 +4,7 @@ Daisy Seed is a audio DSP platform to create audio, synthesis and effects progra
 # DSP
 It has never been easier to start developing your own audio DSP application,
 because of the good libraries and a lot of hard work by individuals and boards like Arduino, Daisy Seed, OWL and Teensy.
+
 Mutable Instruments created by Emilie Gillet has impacted the whole synthesis community with a fresh look at how to make modular synth modules,
 and they have been copied ever since Emilie stopped developing new stuff, and the codebase that is open source is used everywhere.
 
@@ -37,6 +38,10 @@ Mutable Instruments
 https://github.com/BillyDM/awesome-audio-dsp?tab=readme-ov-file
 A good overview of information and learning DSP
 
+### Pure Data Pd
+https://www.youtube.com/@SoundSimulator/videos
+an introductin to pd~
+
 ### Guitar effects pedals
 https://github.com/jerry20091103/Daisy_Guitar_Pedal
 extended guitar pedal with Daisy Seed and Arduino
@@ -47,6 +52,9 @@ Simpler pedals with 4 pots
 https://www.pedalpcb.com/product/pcb351/
 A PCB with 6 potentiometers and 4 toggle switches and 2 foot switches
 
+https://clevelandmusicco.com/hothouse-diy-digital-signal-processing-platform-kit/
+https://github.com/clevelandmusicco/HothouseExamples
+A diy solder project pedal recommended by Floyd Steinberg
 
 
 

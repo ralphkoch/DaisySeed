@@ -53,6 +53,7 @@ https://www.pedalpcb.com/product/pcb351/
 A PCB with 6 potentiometers and 4 toggle switches and 2 foot switches
 
 https://clevelandmusicco.com/hothouse-diy-digital-signal-processing-platform-kit/
+
 https://github.com/clevelandmusicco/HothouseExamples
 A diy solder project pedal recommended by Floyd Steinberg
 
